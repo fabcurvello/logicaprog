@@ -11,3 +11,5 @@ num3 = 9;
 
 media = ( num1 + num2 + num3 ) / 3;
 console.log(`A média é ${media}`);
+
+// Comentário realizado 17/06/26
