@@ -5,10 +5,8 @@
 let num;
 
 console.log("Informe um número: ");
-num = 11;
+num = 10;
 console.log(`Valor inserido: ${num}`);
-
-num % 2; // o resto da divisão de num por 2
 
 if ( num % 2 === 0 ) {
     console.log(`${num} é par!`);

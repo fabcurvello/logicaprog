@@ -5,7 +5,7 @@
 let n: number ;
 let acum: number = 0;
 
-console.log("Informe u número: ");
+console.log("Informe um número: ");
 n = 7;
 console.log(`Número inserido: ${n}`);
 
